@@ -12,7 +12,12 @@ h2 {
     color: #2f6f62;
 }
 @media (max-width: 600px) {
-    nav a {
+    git nav a {
     display: block;
+    }
+}
+@media (max-width: 400px) {
+    header {
+    padding: 0.5rem;
     }
 }
